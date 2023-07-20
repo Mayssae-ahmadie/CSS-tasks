@@ -1,0 +1,44 @@
+.body {
+    border-style: groove;
+    box-shadow: 1px 1px 1px white;
+    border-radius: 10px;
+    margin-left: 380px;
+    margin-right: 380px;
+}
+
+.h1 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.h2 {
+    text-align: left;
+    padding-left: 30px;
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 8px
+}
+
+.ul,
+.ol {
+    text-align: left;
+    justify-content: left;
+    padding-left: 70px;
+}
+
+.Cookingtime {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+.Servingsize {
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    padding-bottom: 30px;
+}
